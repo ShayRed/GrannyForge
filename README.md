@@ -91,11 +91,30 @@ Changes are written only when you save. **Reload** discards unsaved work.
 
 ---
 
+## Full project buyout (source + rights)
+
+Looking to own the **entire GrannyForge project** — not just a Pro key?
+
+One-time purchase of the full package, transferable:
+
+- Complete source code (Desktop, Core, updates, tooling)
+- License / activation backend as included in the repo
+- Rights to rebrand, redistribute, and sell under your own name
+- Handover suitable for a clean ownership transfer
+
+**Price:** on request (one-time buyout)  
+**Contact:** [Discord](https://discord.gg/7aum2ZfmU3) — ask for *project buyout / full source*
+
+This is separate from the normal **Pro** license (€15 / 30 days) for end users.
+
+---
+
 ## Support
 
 - Questions & feedback: [GitHub Issues](https://github.com/ShayRed/GrannyForge/issues)
-- Pro orders & help: [Discord](https://discord.gg/7aum2ZfmU3)
+- Pro orders, buyout & help: [Discord](https://discord.gg/7aum2ZfmU3)
 
-Only the **ready-made tool** (EXE / release ZIP) is provided for end users.
+Only the **ready-made tool** (EXE / release ZIP) is provided for normal end users.  
+Source / full ownership is available only via buyout (see above).
 
 **Shay** · [github.com/ShayRed](https://github.com/ShayRed)
