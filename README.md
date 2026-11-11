@@ -1,5 +1,7 @@
 # GrannyForge
 
+![GrannyForge – Schmiedekunst für 3D-Modelle](https://i.ibb.co/ZznJTxMB/Granny-Forge-Schmiedekunst-f-r-3-D-Modelle.png)
+
 **Metin2 GR2-Tool** — Modelle in 3D ansehen, Logos/Texte/Teile anklicken und entfernen, sauber speichern.
 
 Von [ShayRed](https://github.com/ShayRed)
@@ -9,9 +11,13 @@ Von [ShayRed](https://github.com/ShayRed)
 
 ---
 
-## So sieht’s aus
+## Download
 
-![GrannyForge](https://i.ibb.co/HLzXSz2K/Granny-Forge-u3-Eg-Ht-Ou0a.png)
+1. **[Hier die neueste Version holen](https://github.com/ShayRed/GrannyForge/releases/latest)**
+2. `GrannyForge-*-win-x86.zip` herunterladen
+3. Entpacken → **`GrannyForge.exe`** starten
+
+Windows · fertige EXE · `granny2.dll` liegt im Release mit dabei.
 
 ---
 
@@ -30,18 +36,9 @@ Viele GR2-Modelle haben Logos, Schriftzüge, Extra-Meshes oder Müll dran. Mit G
 - 3D-Vorschau mit Texturen (DDS / TGA / PNG)
 - Einzelne Teile anklicken (Buchstaben, Schwanz, Rüstungsteil …) und entfernen
 - Ganze Meshes oder Animationen löschen
+- Animationen aus dem Ordner mitladen und in der Vorschau abspielen
 - Speichern als normale `.gr2` (Rest bleibt intakt)
 - Eingebauter Updater (neue Versionen vom Release)
-
----
-
-## Download
-
-1. **[Hier die neueste Version holen](https://github.com/ShayRed/GrannyForge/releases/latest)**
-2. `GrannyForge-*-win-x86.zip` herunterladen
-3. Entpacken → **`GrannyForge.exe`** starten
-
-Windows · fertige EXE · `granny2.dll` liegt im Release mit dabei.
 
 ---
 
